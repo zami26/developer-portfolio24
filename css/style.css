@@ -145,3 +145,31 @@ nav li{
 .degree-det{
     margin: 0px;
 }
+
+.cv{
+    margin-left:  44%;
+}
+
+.footer{
+    margin-top: 80px;
+    background-color:#fff8f3 ;
+    display: flex;
+    padding: 80px 220px;
+}
+.footer-part{
+    width: 45%;
+    margin-right: 50px;
+}
+.icons{
+    margin-right: 15px;
+}
+
+.input{
+    width: 500px;
+    padding: 12px 8px;
+    border: 0px;
+    margin-bottom: 20px;
+}
+.massage{
+    height: 180px;
+}
