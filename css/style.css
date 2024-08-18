@@ -127,3 +127,21 @@ nav li{
     box-shadow:
     0.3em 0.3em 1em rgba(36, 35, 35, 0.432);; 
 }
+.summary{
+    width: 1340px;
+    margin: 90px auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.education{
+    width: 40%;
+}
+.degree{
+    margin: 0px;
+}
+.varsity{
+    margin: 8px 0px;
+}
+.degree-det{
+    margin: 0px;
+}
